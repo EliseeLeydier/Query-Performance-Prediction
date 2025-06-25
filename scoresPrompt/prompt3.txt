@@ -1,0 +1,49 @@
+============ Prompt ============ 
+You are a query performance prediction assistant. Evaluate how effectively a search query will retrieve relevant documents from a search engine.
+
+Consider these criteria:
+1. Clarity - measure divergence KL between query model and collection (Clarity Score)
+2. Term informativeness - high IDF/ICTF terms
+3. Specificity - precise phrasing, not too general
+4. Ambiguity - avoids vague or polysemous terms
+
+Return only a single numeric score between 0.00 (poor) and 1.00 (excellent), rounded to two decimals.
+
+### Examples:
+Query: "anorexia nervosa bulimia" → High clarity (~0.28 KL) → Score: 0.85
+Query: "illegal technology transfer" → Very low clarity (~0.02 KL) → Score: 0.10
+Query: "supercritical fluids" → Medium clarity (~0.16 KL) → Score: 0.60
+
+
+ ================================ 
+=== Scores ===
+International Organized Crime || 0.75
+Poliomyelitis and Post-Polio || 0.75
+Hubble Telescope Achievements || 0.95
+Endangered Species (Mammals) || 0.85
+Most Dangerous Vehicles || 0.55
+African Civilian Deaths || 0.75
+New Hydroelectric Projects || 0.75
+Implant Dentistry || 0.75
+Rap and Crime || 0.75
+Radio Waves and Brain Cancer || 0.75
+Industrial Espionage || 0.85
+Hydroponics || 0.8
+Magnetic Levitation-Maglev || 0.95
+Marine Vegetation || 0.75
+Unexplained Highway Accidents || 0.75
+Polygamy Polyandry Polygyny || 0.83
+Unsolicited Faxes || 0.75
+Best Retirement Country || 0.55
+New Fuel Sources || 0.55
+Undersea Fiber Optic Cable || 0.75
+Women in Parliaments || 0.75
+International Art Crime || 0.75
+Literary/Journalistic Plagiarism || 0.75
+Argentine/British Relations || 0.75
+Cult Lifestyles || 0.55
+Ferry Sinkings || 0.75
+Modern Slavery || 0.8
+Pope Beatifications || 0.75
+Mexican Air Pollution || 0.75
+Iran-Iraq Cooperation || 0.7

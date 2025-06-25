@@ -1,0 +1,34 @@
+============ Prompt ============ 
+Evaluate the quality of the following search query for retrieving relevant documents from a search engine. Give a score between 0 (very poor) and 1 (excellent) based on the following criteria: 1. Clarity, 2. Specificity, 3. Technicality, 4. Avoidance of ambiguity. Respond with a single score between 0 and 1, with no explanation.
+ ================================ 
+=== Scores ===
+International Organized Crime || 0.95
+Poliomyelitis and Post-Polio || 0.95
+Hubble Telescope Achievements || 0.95
+Endangered Species (Mammals) || 0.95
+Most Dangerous Vehicles || 0.75
+African Civilian Deaths || 0.85
+New Hydroelectric Projects || 0.95
+Implant Dentistry || 0.95
+Rap and Crime || 0.85
+Radio Waves and Brain Cancer || 0.85
+Industrial Espionage || 0.85
+Hydroponics || 0.95
+Magnetic Levitation-Maglev || 0.95
+Marine Vegetation || 0.95
+Unexplained Highway Accidents || None
+Polygamy Polyandry Polygyny || 0.95
+Unsolicited Faxes || 0.95
+Best Retirement Country || 0.75
+New Fuel Sources || 0.75
+Undersea Fiber Optic Cable || 0.95
+Women in Parliaments || 0.95
+International Art Crime || 0.95
+Literary/Journalistic Plagiarism || 0.95
+Argentine/British Relations || 0.85
+Cult Lifestyles || None
+Ferry Sinkings || 0.85
+Modern Slavery || 0.95
+Pope Beatifications || 0.95
+Mexican Air Pollution || 0.95
+Iran-Iraq Cooperation || 0.85

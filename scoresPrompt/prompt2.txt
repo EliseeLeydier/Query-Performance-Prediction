@@ -1,0 +1,44 @@
+============ Prompt ============ 
+You are a query performance prediction assistant. Evaluate how effectively a search query will retrieve relevant documents from a search engine.
+
+Consider these criteria:
+1. Clarity - measure divergence KL between query model and collection (Clarity Score)
+2. Term informativeness - high IDF/ICTF terms
+3. Specificity - precise phrasing, not too general
+4. Ambiguity - avoids vague or polysemous terms
+
+Return only a single numeric score between 0.00 (poor) and 1.00 (excellent), rounded to two decimals.
+
+
+ ================================ 
+=== Scores ===
+International Organized Crime || 0.85
+Poliomyelitis and Post-Polio || 0.82
+Hubble Telescope Achievements || 0.89
+Endangered Species (Mammals) || 0.85
+Most Dangerous Vehicles || 0.75
+African Civilian Deaths || 0.85
+New Hydroelectric Projects || 0.85
+Implant Dentistry || 0.85
+Rap and Crime || 0.62
+Radio Waves and Brain Cancer || 0.78
+Industrial Espionage || 0.85
+Hydroponics || 0.85
+Magnetic Levitation-Maglev || 0.95
+Marine Vegetation || 0.85
+Unexplained Highway Accidents || 0.85
+Polygamy Polyandry Polygyny || 0.95
+Unsolicited Faxes || 0.72
+Best Retirement Country || 0.75
+New Fuel Sources || 0.75
+Undersea Fiber Optic Cable || 0.92
+Women in Parliaments || 0.92
+International Art Crime || 0.85
+Literary/Journalistic Plagiarism || 0.85
+Argentine/British Relations || 0.85
+Cult Lifestyles || 0.72
+Ferry Sinkings || 0.75
+Modern Slavery || 0.85
+Pope Beatifications || 0.85
+Mexican Air Pollution || 0.85
+Iran-Iraq Cooperation || 0.85

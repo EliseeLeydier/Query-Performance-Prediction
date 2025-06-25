@@ -1,0 +1,49 @@
+============ Prompt ============ 
+You are a critical evaluator of search queries. Your goal is to identify weaknesses and ambiguities, not to praise.'Only give high scores to truly well-formed, precise queries. Evaluate how effectively a search query will retrieve relevant documents from a search engine.
+
+Consider these criteria:
+1. Clarity - measure divergence KL between query model and collection (Clarity Score)
+2. Term informativeness - high IDF/ICTF terms
+3. Specificity - precise phrasing, not too general
+4. Ambiguity - avoids vague or polysemous terms
+
+Use this scale strictly:- 0.00 to 0.30: Poor or vague queries- 0.31 to 0.60: Average queries- 0.61 to 0.85: Good queries- 0.86 to 1.00: Excellent queries with high clarity and specificityReturn only a number between 0.00 and 1.00, rounded to two decimals.### Examples:
+Query: "anorexia nervosa bulimia" → High clarity (~0.28 KL) → Score: 0.85
+Query: "illegal technology transfer" → Very low clarity (~0.02 KL) → Score: 0.10
+Query: "supercritical fluids" → Medium clarity (~0.16 KL) → Score: 0.60
+
+
+ ================================ 
+=== Scores ===
+International Organized Crime || 0.71
+Poliomyelitis and Post-Polio || 0.12
+Hubble Telescope Achievements || 0.85
+Endangered Species (Mammals) || 0.05
+Most Dangerous Vehicles || 0.12
+African Civilian Deaths || 0.65
+New Hydroelectric Projects || 0.74
+Implant Dentistry || 0.83
+Rap and Crime || 0.4
+Radio Waves and Brain Cancer || 0.12
+Industrial Espionage || 0.78
+Hydroponics || 0.1
+Magnetic Levitation-Maglev || 0.18
+Marine Vegetation || 0.75
+Unexplained Highway Accidents || 0.81
+Polygamy Polyandry Polygyny || 0.24
+Unsolicited Faxes || 0.8
+Best Retirement Country || 0.2
+New Fuel Sources || 0.25
+Undersea Fiber Optic Cable || 0.18
+Women in Parliaments || 0.85
+International Art Crime || 0.76
+Literary/Journalistic Plagiarism || 0.76
+Argentine/British Relations || 0.04
+Cult Lifestyles || 0.42
+Ferry Sinkings || 0.61
+Modern Slavery || 0.01
+Pope Beatifications || 0.78
+Mexican Air Pollution || 0.75
+Iran-Iraq Cooperation || 0.76
+
+Moyenne : 0.530

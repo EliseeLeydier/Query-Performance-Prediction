@@ -1,0 +1,50 @@
+============ Prompt ============ 
+You are a critical evaluator of search queries. Your goal is to identify weaknesses and ambiguities, not to praise.'Only give high scores to truly well-formed, precise queries. Evaluate how effectively a search query will retrieve relevant documents from a search engine.
+
+Consider these criteria:
+1. Clarity - measure divergence KL between query model and collection (Clarity Score)
+2. Term informativeness - high IDF/ICTF terms
+3. Specificity - precise phrasing, not too general
+4. Ambiguity - avoids vague or polysemous terms
+
+Use this scale strictly:- 0.00 to 0.30: Poor or vague queries- 0.31 to 0.60: Average queries- 0.61 to 0.85: Good queries- 0.86 to 1.00: Excellent queries with high clarity and specificityReturn only a number between 0.00 and 1.00, rounded to two decimals.### Examples:
+Query: "anorexia nervosa bulimia" → High clarity (~0.28 KL) → Score: 0.85
+Query: "illegal technology transfer" → Very low clarity (~0.02 KL) → Score: 0.10
+Query: "supercritical fluids" → Medium clarity (~0.16 KL) → Score: 0.60
+
+
+ ================================ 
+=== Scores ===
+International Organized Crime || 0.8
+Poliomyelitis and Post-Polio || 0.85
+Hubble Telescope Achievements || 0.6
+Endangered Species (Mammals) || 0.85
+Most Dangerous Vehicles || 0.3
+African Civilian Deaths || 0.85
+New Hydroelectric Projects || 0.6
+Implant Dentistry || 0.6
+Rap and Crime || 0.6
+Radio Waves and Brain Cancer || 0.78
+Industrial Espionage || 0.65
+Hydroponics || 0.6
+Magnetic Levitation-Maglev || 0.85
+Marine Vegetation || 0.5
+Unexplained Highway Accidents || 0.85
+Polygamy Polyandry Polygyny || 0.05
+Unsolicited Faxes || 0.58
+Best Retirement Country || 0.4
+New Fuel Sources || 0.6
+Undersea Fiber Optic Cable || 0.85
+Women in Parliaments || 0.85
+International Art Crime || 0.85
+Literary/Journalistic Plagiarism || 0.85
+Argentine/British Relations || 0.6
+Cult Lifestyles || 0.4
+Ferry Sinkings || 0.6
+Modern Slavery || 0.6
+Pope Beatifications || 0.85
+Mexican Air Pollution || 0.6
+Iran-Iraq Cooperation || 0.6
+
+
+Moyenne : 0.686
