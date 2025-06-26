@@ -1,4 +1,110 @@
 
+# Évaluation de la qualité des requêtes avec QPP et LLM
+
+Ce script évalue la qualité de requêtes de recherche en utilisant à la fois des mesures QPP (pré-retrieval) telles que `idf`, `scq`, `ictf`, et un score qualitatif généré par un LLM local(Ollama). Il compare ensuite ces scores à la performance réelle (via `nDCG@10`) à l’aide de `pytrec_eval`.
+
+---
+
+## 📦 Prérequis
+
+- Python 3.8+
+- Java (pour Pyserini)
+- Serveur LLM local compatible avec l’API Ollama (port `11434`)
+- Index Lucene préconstruit pour le corpus (par ex. `robust04`)
+
+### 📚 Installation des dépendances
+
+```bash
+python3.10 -m venv env
+source env/bin/activate
+
+pip3 install pandas requests tqdm scipy pyserini pytrec_eval
+```
+
+---
+
+## ⚙️ Usage
+
+### 🔧 Lancer le script :
+
+```bash
+python evaluate_queries.py --n 100
+```
+
+> `--n` : nombre de requêtes à évaluer (défaut : 250)
+
+---
+
+## 📂 Fonctionnalités principales
+
+### Étape 1 : Extraction des requêtes  
+À partir du corpus (ex: `robust04`), on récupère les requêtes manuelles (`title`).
+
+### Étape 2 : Calcul des scores QPP  
+- **idf** : Inverse Document Frequency  
+- **scq** : Simplified Clarity Score  
+- **ictf** : Inverse Collection Term Frequency
+
+### Étape 3 : Score qualitatif par LLM  
+Envoi de chaque requête au modèle local pour retour d’un score entre `0.00` et `1.00`.
+
+### Étape 4 : Corrélation avec performance réelle  
+On compare les scores avec les `nDCG@10` obtenus via `pytrec_eval`.
+
+---
+
+## 📁 Résultats
+
+Les résultats sont automatiquement sauvegardés dans un dossier :
+
+```
+resultPreRetrieval/YYYY-MM-DD_HH-MM-SS/
+├── query_scores.json     # Scores QPP et LLM par requête
+├── notes.txt             # Corrélations et statistiques descriptives
+```
+
+---
+
+## 📊 Sorties principales
+
+- **Matrice de corrélation** entre les scores (idf, scq, ictf, llm_score) et nDCG@10
+- **Statistiques par requête** : ID, scores QPP, score LLM, ndcg@10
+- **Corrélations Kendall & Pearson** pour chaque score
+
+---
+
+## Exemple de sortie JSON
+
+```json
+[
+  {
+    "id": "303",
+    "query": "Hubble telescope achievements",
+    "idf": 3.14,
+    "scq": 5.21,
+    "ictf": 2.67,
+    "llm_score": 0.81
+  },
+  ...
+]
+```
+
+---
+
+## 🧪 Tests
+
+> Pas de tests unitaires inclus, mais l’exécution du script avec `--n 5` permet un test rapide sur petit échantillon.
+
+---
+
+## 📝 Notes
+
+- Certaines requêtes (ex: ID 672) peuvent être exclues du traitement.
+- Le LLM doit répondre **strictement** par un score flottant entre 0.00 et 1.00.
+
+
+-------------
+
 # Évaluation de la Qualité des Requêtes avec Pyserini, QPP et un LLM
 
 - de **scores QPP pré-retrieval** (`idf`, `scq`, `ictf`),
