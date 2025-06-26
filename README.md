@@ -84,7 +84,7 @@ resultPreRetrieval/YYYY-MM-DD_HH-MM-SS/
 
 ---
 
-## 📊 Sorties principales
+## Sorties principales
 
 - **Matrice de corrélation** entre les scores (idf, scq, ictf, llm_score) et nDCG@10
 - **Statistiques par requête** : ID, scores QPP, score LLM, ndcg@10
