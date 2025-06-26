@@ -9,7 +9,7 @@ Ce script évalue la qualité de requêtes de recherche en utilisant à la fois 
 
 - Python 3.8+
 - Java (pour Pyserini)
-- Serveur LLM local compatible avec l’API Ollama (port `11434`)
+- Serveur LLM local compatible avec l’API Ollama
 - Index Lucene préconstruit pour le corpus (par ex. `robust04`)
 
 ### Installation des dépendances
