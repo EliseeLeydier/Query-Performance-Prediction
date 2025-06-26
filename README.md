@@ -5,14 +5,14 @@ Ce script évalue la qualité de requêtes de recherche en utilisant à la fois 
 
 ---
 
-## 📦 Prérequis
+## Prérequis
 
 - Python 3.8+
 - Java (pour Pyserini)
 - Serveur LLM local compatible avec l’API Ollama (port `11434`)
 - Index Lucene préconstruit pour le corpus (par ex. `robust04`)
 
-### 📚 Installation des dépendances
+### Installation des dépendances
 
 ```bash
 python3.10 -m venv env
@@ -23,9 +23,9 @@ pip3 install pandas requests tqdm scipy pyserini pytrec_eval
 
 ---
 
-## ⚙️ Usage
+## Usage
 
-### 🔧 Lancer le script :
+### Lancer le script :
 
 ```bash
 python evaluate_queries.py --n 100
@@ -35,10 +35,10 @@ python evaluate_queries.py --n 100
 
 ---
 
-## 📂 Fonctionnalités principales
+## Fonctionnalités principales
 
 ### Étape 1 : Extraction des requêtes  
-À partir du corpus (ex: `robust04`), on récupère les requêtes manuelles (`title`).
+À partir du corpus (`robust04` `TREC DL 19`), on récupère les requêtes manuelles.
 
 ### Étape 2 : Calcul des scores QPP  
 - **idf** : Inverse Document Frequency  
@@ -47,13 +47,32 @@ python evaluate_queries.py --n 100
 
 ### Étape 3 : Score qualitatif par LLM  
 Envoi de chaque requête au modèle local pour retour d’un score entre `0.00` et `1.00`.
+Prompt : 
+> You are a critical evaluator of search queries. Your goal is to identify weaknesses and ambiguities, not to praise.
+> Only give high scores to truly well-formed, precise queries.
+> Evaluate how effectively a search query will retrieve relevant documents from a search engine.
+> Consider these criteria:
+> 1. Clarity - measure divergence KL between query model and collection (Clarity Score)
+> 2. Term informativeness - high IDF/ICTF terms
+> 3. Specificity - precise phrasing, not too general
+> 4. Ambiguity - avoids vague or polysemous terms
+> Use this scale strictly:
+> - 0.00 to 0.30: Poor or vague queries
+> - 0.31 to 0.60: Average queries
+> - 0.61 to 0.85: Good queries
+> - 0.86 to 1.00: Excellent queries with high clarity and specificity
+> Return only a number between 0.00 and 1.00, rounded to two decimals.
+> Examples:
+> Query: "anorexia nervosa bulimia" → High clarity → Score: 0.85
+> Query: "illegal technology transfer" → Very low clarity → Score: 0.10
+> Query: "supercritical fluids" → Medium clarity → Score: 0.60
 
 ### Étape 4 : Corrélation avec performance réelle  
 On compare les scores avec les `nDCG@10` obtenus via `pytrec_eval`.
 
 ---
 
-## 📁 Résultats
+## Résultats
 
 Les résultats sont automatiquement sauvegardés dans un dossier :
 
@@ -73,36 +92,7 @@ resultPreRetrieval/YYYY-MM-DD_HH-MM-SS/
 
 ---
 
-## Exemple de sortie JSON
-
-```json
-[
-  {
-    "id": "303",
-    "query": "Hubble telescope achievements",
-    "idf": 3.14,
-    "scq": 5.21,
-    "ictf": 2.67,
-    "llm_score": 0.81
-  },
-  ...
-]
-```
-
----
-
-## 🧪 Tests
-
-> Pas de tests unitaires inclus, mais l’exécution du script avec `--n 5` permet un test rapide sur petit échantillon.
-
----
-
-## 📝 Notes
-
-- Certaines requêtes (ex: ID 672) peuvent être exclues du traitement.
-- Le LLM doit répondre **strictement** par un score flottant entre 0.00 et 1.00.
-
-
+DRAFT
 -------------
 
 # Évaluation de la Qualité des Requêtes avec Pyserini, QPP et un LLM
