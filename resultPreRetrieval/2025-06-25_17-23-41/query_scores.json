@@ -1,0 +1,346 @@
+[
+  {
+    "id": 19335,
+    "query": "anthropological definition of environment",
+    "idf": 5.730988032983466,
+    "scq": 187.33465317657246,
+    "ictf": 5.4759458337163265,
+    "llm_score": 0.75
+  },
+  {
+    "id": 47923,
+    "query": "axon terminals or synaptic knob definition",
+    "idf": 6.798882655477802,
+    "scq": 344.10792543391494,
+    "ictf": 6.420183675487022,
+    "llm_score": 0.95
+  },
+  {
+    "id": 87181,
+    "query": "causes of left ventricular hypertrophy",
+    "idf": 8.06945046095427,
+    "scq": 272.55058372967045,
+    "ictf": 7.802885709311003,
+    "llm_score": 0.95
+  },
+  {
+    "id": 87452,
+    "query": "causes of military suicide",
+    "idf": 7.850929519741862,
+    "scq": 204.06853981874858,
+    "ictf": 7.54945777432219,
+    "llm_score": 0.75
+  },
+  {
+    "id": 104861,
+    "query": "cost of interior concrete flooring",
+    "idf": 5.220548306950831,
+    "scq": 251.46373877770358,
+    "ictf": 4.732679510656462,
+    "llm_score": 0.92
+  },
+  {
+    "id": 130510,
+    "query": "definition declaratory judgment",
+    "idf": 7.039397227890884,
+    "scq": 192.9490288964842,
+    "ictf": 6.738595477278842,
+    "llm_score": 0.55
+  },
+  {
+    "id": 131843,
+    "query": "definition of a sigmet",
+    "idf": 8.279229115752385,
+    "scq": 108.95229461065009,
+    "ictf": 8.016381969125742,
+    "llm_score": 0.4
+  },
+  {
+    "id": 146187,
+    "query": "difference between a mcdouble and a double cheeseburger",
+    "idf": 6.703443564719732,
+    "scq": 283.8158578654308,
+    "ictf": 6.450125003016316,
+    "llm_score": 0.9
+  },
+  {
+    "id": 148538,
+    "query": "difference between rn and bsn",
+    "idf": 5.411287574216446,
+    "scq": 238.8690476380616,
+    "ictf": 5.050996013617525,
+    "llm_score": 0.95
+  },
+  {
+    "id": 156493,
+    "query": "do goldfish grow",
+    "idf": 5.297168913799251,
+    "scq": 175.785306450475,
+    "ictf": 4.902600725136611,
+    "llm_score": 0.95
+  },
+  {
+    "id": 168216,
+    "query": "does legionella pneumophila cause pneumonia",
+    "idf": 8.560046385017312,
+    "scq": 331.85245624644574,
+    "ictf": 8.242446634412392,
+    "llm_score": 0.95
+  },
+  {
+    "id": 182539,
+    "query": "example of monotonic function",
+    "idf": 5.810818179783351,
+    "scq": 173.1910990303289,
+    "ictf": 5.584920116032952,
+    "llm_score": 0.75
+  },
+  {
+    "id": 183378,
+    "query": "exons definition biology",
+    "idf": 6.652004204554351,
+    "scq": 195.87610241786012,
+    "ictf": 6.331290213901272,
+    "llm_score": 0.95
+  },
+  {
+    "id": 207786,
+    "query": "how are some sharks warm blooded",
+    "idf": 4.273131109772949,
+    "scq": 269.99857874566186,
+    "ictf": 3.865616309750309,
+    "llm_score": 0.75
+  },
+  {
+    "id": 264014,
+    "query": "how long is life cycle of flea",
+    "idf": 4.5017345080604905,
+    "scq": 278.9154760863782,
+    "ictf": 4.146081328411293,
+    "llm_score": 0.75
+  },
+  {
+    "id": 359349,
+    "query": "how to find the midsegment of a trapezoid",
+    "idf": 6.964359338718557,
+    "scq": 232.4045585458452,
+    "ictf": 6.495379296199417,
+    "llm_score": 0.95
+  },
+  {
+    "id": 405717,
+    "query": "is cdg airport in main paris",
+    "idf": 6.699424956346504,
+    "scq": 263.04925609075275,
+    "ictf": 6.293844827273758,
+    "llm_score": 0.95
+  },
+  {
+    "id": 443396,
+    "query": "lps laws definition",
+    "idf": 5.304002414476067,
+    "scq": 179.5843042479811,
+    "ictf": 5.038370039040878,
+    "llm_score": 0.75
+  },
+  {
+    "id": 451602,
+    "query": "medicare's definition of mechanical ventilation",
+    "idf": 5.556705705356368,
+    "scq": 256.0264577822387,
+    "ictf": 5.224228587656015,
+    "llm_score": 0.9
+  },
+  {
+    "id": 489204,
+    "query": "right pelvic pain causes",
+    "idf": 6.441673556509713,
+    "scq": 242.9619093385037,
+    "ictf": 6.1102002414983305,
+    "llm_score": 0.75
+  },
+  {
+    "id": 490595,
+    "query": "rsa definition key",
+    "idf": 5.990048179078518,
+    "scq": 185.5670465158552,
+    "ictf": 5.6461630479149605,
+    "llm_score": 0.9
+  },
+  {
+    "id": 527433,
+    "query": "types of dysarthria from cerebral palsy",
+    "idf": 6.086172251713258,
+    "scq": 295.00045380995005,
+    "ictf": 5.692833099006102,
+    "llm_score": 0.95
+  },
+  {
+    "id": 573724,
+    "query": "what are the social determinants of health",
+    "idf": 3.826081121589303,
+    "scq": 205.35575577363215,
+    "ictf": 3.5657541300394784,
+    "llm_score": 0.95
+  },
+  {
+    "id": 833860,
+    "query": "what is the most popular food in switzerland",
+    "idf": 4.074219882476437,
+    "scq": 256.53797112996006,
+    "ictf": 3.8059055249659197,
+    "llm_score": 0.75
+  },
+  {
+    "id": 855410,
+    "query": "what is theraderm used for",
+    "idf": 6.302806969627213,
+    "scq": 113.02454514534696,
+    "ictf": 6.058524050219887,
+    "llm_score": 0.75
+  },
+  {
+    "id": 915593,
+    "query": "what types of food can you cook sous vide",
+    "idf": 4.555051068889748,
+    "scq": 399.7599052457101,
+    "ictf": 4.1668477453755095,
+    "llm_score": 0.75
+  },
+  {
+    "id": 962179,
+    "query": "when was the salvation army founded",
+    "idf": 5.016394361384498,
+    "scq": 224.57819828196568,
+    "ictf": 4.7707623047844026,
+    "llm_score": 0.95
+  },
+  {
+    "id": 1037798,
+    "query": "who is robert gray",
+    "idf": 5.053371322643611,
+    "scq": 178.52639144792255,
+    "ictf": 4.822551916176921,
+    "llm_score": 0.55
+  },
+  {
+    "id": 1063750,
+    "query": "why did the us volunterilay enter ww1",
+    "idf": 5.03147672216142,
+    "scq": 273.4545483384026,
+    "ictf": 4.8130585598707265,
+    "llm_score": 0.75
+  },
+  {
+    "id": 1103812,
+    "query": "who formed the commonwealth of independent states",
+    "idf": 4.268708301597123,
+    "scq": 262.76217166833976,
+    "ictf": 4.019641955715366,
+    "llm_score": 0.58
+  },
+  {
+    "id": 1106007,
+    "query": "define visceral?",
+    "idf": 6.304593924743584,
+    "scq": 131.64948457292888,
+    "ictf": 6.0421166230918555,
+    "llm_score": 0.95
+  },
+  {
+    "id": 1110199,
+    "query": "what is wifi vs bluetooth",
+    "idf": 5.9208169188871915,
+    "scq": 258.37175926215247,
+    "ictf": 5.530043835369286,
+    "llm_score": 0.9
+  },
+  {
+    "id": 1112341,
+    "query": "what is the daily life of thai people",
+    "idf": 4.455495882854353,
+    "scq": 269.4538098009731,
+    "ictf": 4.190023547781968,
+    "llm_score": 0.75
+  },
+  {
+    "id": 1113437,
+    "query": "what is physical description of spruce",
+    "idf": 5.227596356770154,
+    "scq": 236.25215710922993,
+    "ictf": 4.983808103550412,
+    "llm_score": 0.75
+  },
+  {
+    "id": 1114646,
+    "query": "what is famvir prescribed for",
+    "idf": 6.862309863894467,
+    "scq": 170.38054372022654,
+    "ictf": 6.678048829343214,
+    "llm_score": 0.95
+  },
+  {
+    "id": 1114819,
+    "query": "what is durable medical equipment consist of",
+    "idf": 4.531646637869725,
+    "scq": 279.9509587104732,
+    "ictf": 4.332409681715261,
+    "llm_score": 0.75
+  },
+  {
+    "id": 1115776,
+    "query": "what is an aml surveillance analyst",
+    "idf": 6.7753396888065005,
+    "scq": 262.3926787164121,
+    "ictf": 6.446838737785328,
+    "llm_score": 0.9
+  },
+  {
+    "id": 1117099,
+    "query": "what is a active margin",
+    "idf": 4.343492107689006,
+    "scq": 163.64980354586106,
+    "ictf": 4.0505099971612575,
+    "llm_score": 0.55
+  },
+  {
+    "id": 1121402,
+    "query": "what can contour plowing reduce",
+    "idf": 5.1484938428948315,
+    "scq": 276.6984759058689,
+    "ictf": 4.861733944205806,
+    "llm_score": 0.75
+  },
+  {
+    "id": 1121709,
+    "query": "what are the three percenters?",
+    "idf": 3.554041622336863,
+    "scq": 146.85263683231148,
+    "ictf": 3.2645172101590383,
+    "llm_score": 0.35
+  },
+  {
+    "id": 1124210,
+    "query": "tracheids are part of _____.",
+    "idf": 7.140137659707294,
+    "scq": 114.97252369348453,
+    "ictf": 6.825247423565585,
+    "llm_score": 0.95
+  },
+  {
+    "id": 1129237,
+    "query": "hydrogen is a liquid below what temperature",
+    "idf": 4.309655182023241,
+    "scq": 276.6845075217676,
+    "ictf": 3.979426620176853,
+    "llm_score": 0.95
+  },
+  {
+    "id": 1133167,
+    "query": "how is the weather in jamaica",
+    "idf": 5.036146262447493,
+    "scq": 175.43310525650034,
+    "ictf": 4.632235417332773,
+    "llm_score": 0.95
+  }
+]

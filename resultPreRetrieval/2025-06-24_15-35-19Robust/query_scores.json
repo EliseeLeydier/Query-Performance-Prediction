@@ -1,0 +1,1986 @@
+[
+  {
+    "id": 301,
+    "query": "International Organized Crime",
+    "idf": 2.475185396453974,
+    "scq": 94.20400732723434,
+    "ictf": 1.7781231507975956,
+    "llm_score": 0.95
+  },
+  {
+    "id": 302,
+    "query": "Poliomyelitis and Post-Polio",
+    "idf": 6.940256237278227,
+    "scq": 133.19628327427517,
+    "ictf": 6.44022935326858,
+    "llm_score": 0.95
+  },
+  {
+    "id": 303,
+    "query": "Hubble Telescope Achievements",
+    "idf": 5.973361264851078,
+    "scq": 143.5653486320782,
+    "ictf": 5.25961764913802,
+    "llm_score": 0.95
+  },
+  {
+    "id": 304,
+    "query": "Endangered Species (Mammals)",
+    "idf": 5.371091553553749,
+    "scq": 154.80263320869446,
+    "ictf": 4.430112908499173,
+    "llm_score": 0.95
+  },
+  {
+    "id": 305,
+    "query": "Most Dangerous Vehicles",
+    "idf": 2.6387733070804686,
+    "scq": 97.73037030965726,
+    "ictf": 2.0351708709294782,
+    "llm_score": 0.75
+  },
+  {
+    "id": 306,
+    "query": "African Civilian Deaths",
+    "idf": 3.7169744375733624,
+    "scq": 123.22305210491965,
+    "ictf": 3.1708502787531843,
+    "llm_score": 0.85
+  },
+  {
+    "id": 307,
+    "query": "New Hydroelectric Projects",
+    "idf": 3.1441885878899964,
+    "scq": 99.69866365326871,
+    "ictf": 2.393662703716308,
+    "llm_score": 0.95
+  },
+  {
+    "id": 308,
+    "query": "Implant Dentistry",
+    "idf": 7.554856179176442,
+    "scq": 111.00268679636748,
+    "ictf": 6.741066291308326,
+    "llm_score": 0.95
+  },
+  {
+    "id": 309,
+    "query": "Rap and Crime",
+    "idf": 4.7932002152672695,
+    "scq": 93.61571486119753,
+    "ictf": 4.118043919264833,
+    "llm_score": 0.75
+  },
+  {
+    "id": 310,
+    "query": "Radio Waves and Brain Cancer",
+    "idf": 4.351487237593949,
+    "scq": 179.9804551217783,
+    "ictf": 3.7706657602941682,
+    "llm_score": 0.85
+  },
+  {
+    "id": 311,
+    "query": "Industrial Espionage",
+    "idf": 4.145804515602879,
+    "scq": 78.45371708209609,
+    "ictf": 3.4547219485102874,
+    "llm_score": 0.95
+  },
+  {
+    "id": 312,
+    "query": "Hydroponics",
+    "idf": 10.132385941532702,
+    "scq": 43.52724791226375,
+    "ictf": 9.918811841234643,
+    "llm_score": 0.95
+  },
+  {
+    "id": 313,
+    "query": "Magnetic Levitation-Maglev",
+    "idf": 7.81690902363632,
+    "scq": 158.07850198115133,
+    "ictf": 7.095062912180279,
+    "llm_score": 0.95
+  },
+  {
+    "id": 314,
+    "query": "Marine Vegetation",
+    "idf": 4.442882010347857,
+    "scq": 92.67190905519604,
+    "ictf": 3.758064054137191,
+    "llm_score": 0.95
+  },
+  {
+    "id": 315,
+    "query": "Unexplained Highway Accidents",
+    "idf": 5.195488386217646,
+    "scq": 139.48431937308916,
+    "ictf": 4.666617462113065,
+    "llm_score": 0.95
+  },
+  {
+    "id": 316,
+    "query": "Polygamy Polyandry Polygyny",
+    "idf": 11.847247030401368,
+    "scq": 96.82590995088854,
+    "ictf": 11.645201762544595,
+    "llm_score": 0.85
+  },
+  {
+    "id": 317,
+    "query": "Unsolicited Faxes",
+    "idf": 6.050916427849626,
+    "scq": 99.9411730742143,
+    "ictf": 5.67355706143447,
+    "llm_score": 0.95
+  },
+  {
+    "id": 318,
+    "query": "Best Retirement Country",
+    "idf": 2.4313593166487526,
+    "scq": 91.60843031170124,
+    "ictf": 1.8788244298364205,
+    "llm_score": 0.5
+  },
+  {
+    "id": 319,
+    "query": "New Fuel Sources",
+    "idf": 2.2639583953157474,
+    "scq": 89.3399591750168,
+    "ictf": 1.46529572000124,
+    "llm_score": 0.75
+  },
+  {
+    "id": 320,
+    "query": "Undersea Fiber Optic Cable",
+    "idf": 5.875574422139072,
+    "scq": 206.35681316422404,
+    "ictf": 5.044352917629485,
+    "llm_score": 0.95
+  },
+  {
+    "id": 321,
+    "query": "Women in Parliaments",
+    "idf": 3.140122502157757,
+    "scq": 74.74879031481194,
+    "ictf": 2.4344521660257765,
+    "llm_score": 0.95
+  },
+  {
+    "id": 322,
+    "query": "International Art Crime",
+    "idf": 2.7791324471899075,
+    "scq": 102.40044929009989,
+    "ictf": 2.0480626105836914,
+    "llm_score": 0.95
+  },
+  {
+    "id": 323,
+    "query": "Literary/Journalistic Plagiarism",
+    "idf": 6.199675243169746,
+    "scq": 143.96169213666676,
+    "ictf": 5.779483494519989,
+    "llm_score": 0.95
+  },
+  {
+    "id": 324,
+    "query": "Argentine/British Relations",
+    "idf": 3.4255011652659486,
+    "scq": 112.03465117639466,
+    "ictf": 2.7660667926934615,
+    "llm_score": 0.85
+  },
+  {
+    "id": 325,
+    "query": "Cult Lifestyles",
+    "idf": 6.136398060060702,
+    "scq": 102.05856323563748,
+    "ictf": 5.8627750483619385,
+    "llm_score": 0.6
+  },
+  {
+    "id": 326,
+    "query": "Ferry Sinkings",
+    "idf": 5.347774819564622,
+    "scq": 98.8905027359461,
+    "ictf": 4.941413475898008,
+    "llm_score": 0.75
+  },
+  {
+    "id": 327,
+    "query": "Modern Slavery",
+    "idf": 5.399332288041017,
+    "scq": 91.72328062575464,
+    "ictf": 5.00846607185422,
+    "llm_score": 0.95
+  },
+  {
+    "id": 328,
+    "query": "Pope Beatifications",
+    "idf": 7.6994741485067255,
+    "scq": 102.43705183390358,
+    "ictf": 7.166049868544513,
+    "llm_score": 0.95
+  },
+  {
+    "id": 329,
+    "query": "Mexican Air Pollution",
+    "idf": 3.7909923365451514,
+    "scq": 127.48163170449503,
+    "ictf": 2.884902598699322,
+    "llm_score": 0.9
+  },
+  {
+    "id": 330,
+    "query": "Iran-Iraq Cooperation",
+    "idf": 3.884177211577296,
+    "scq": 131.47301864453624,
+    "ictf": 2.857069051748691,
+    "llm_score": 0.7
+  },
+  {
+    "id": 331,
+    "query": "World Bank Criticism",
+    "idf": 2.1182337460701044,
+    "scq": 85.71084890029022,
+    "ictf": 1.3309180075203797,
+    "llm_score": 0.95
+  },
+  {
+    "id": 332,
+    "query": "Income Tax Evasion",
+    "idf": 4.059854611198716,
+    "scq": 118.18898258657623,
+    "ictf": 3.3057701707584974,
+    "llm_score": 0.95
+  },
+  {
+    "id": 333,
+    "query": "Antibiotics Bacteria Disease",
+    "idf": 6.737012215044115,
+    "scq": 108.21929943735235,
+    "ictf": 6.142613221245053,
+    "llm_score": 0.75
+  },
+  {
+    "id": 334,
+    "query": "Export Controls Cryptography",
+    "idf": 5.170134961395057,
+    "scq": 108.03944398455113,
+    "ictf": 4.403983763268266,
+    "llm_score": 0.9
+  },
+  {
+    "id": 335,
+    "query": "Adoptive Biological Parents",
+    "idf": 3.825850534920422,
+    "scq": 123.87304379098204,
+    "ictf": 3.2356542835812854,
+    "llm_score": 0.95
+  },
+  {
+    "id": 336,
+    "query": "Black Bear Attacks",
+    "idf": 3.1676376443611147,
+    "scq": 110.98567430487326,
+    "ictf": 2.629606880056659,
+    "llm_score": 0.8
+  },
+  {
+    "id": 337,
+    "query": "Viral Hepatitis",
+    "idf": 7.130876514796972,
+    "scq": 109.07229434147065,
+    "ictf": 6.53168130161384,
+    "llm_score": 0.95
+  },
+  {
+    "id": 338,
+    "query": "Risk of Aspirin",
+    "idf": 5.369073553570795,
+    "scq": 89.42432414965114,
+    "ictf": 4.770339686397846,
+    "llm_score": 0.85
+  },
+  {
+    "id": 339,
+    "query": "Alzheimer's Drug Treatment",
+    "idf": 4.736853106081845,
+    "scq": 137.92380922202835,
+    "ictf": 3.759663702327,
+    "llm_score": 0.95
+  },
+  {
+    "id": 340,
+    "query": "Land Mine Ban",
+    "idf": 3.3813900629157096,
+    "scq": 117.87072113012565,
+    "ictf": 2.620737389856796,
+    "llm_score": 0.95
+  },
+  {
+    "id": 341,
+    "query": "Airport Security",
+    "idf": 2.798044770062044,
+    "scq": 69.23289811919736,
+    "ictf": 1.9274520908989596,
+    "llm_score": 0.95
+  },
+  {
+    "id": 342,
+    "query": "Diplomatic Expulsion",
+    "idf": 3.5446391731411127,
+    "scq": 39.71439775585804,
+    "ictf": 3.0621474479762747,
+    "llm_score": 0.95
+  },
+  {
+    "id": 343,
+    "query": "Police Deaths",
+    "idf": 3.0313094853902687,
+    "scq": 73.11337161425595,
+    "ictf": 2.280297011096499,
+    "llm_score": 0.75
+  },
+  {
+    "id": 344,
+    "query": "Abuses of E-Mail",
+    "idf": 4.12967149298479,
+    "scq": 131.9984878251774,
+    "ictf": 3.3771762366364513,
+    "llm_score": 0.65
+  },
+  {
+    "id": 345,
+    "query": "Overseas Tobacco Sales",
+    "idf": 3.591580487751575,
+    "scq": 118.87868365352902,
+    "ictf": 2.9170849911763526,
+    "llm_score": 0.85
+  },
+  {
+    "id": 346,
+    "query": "Educational Standards",
+    "idf": 2.7181354169405543,
+    "scq": 68.40997322548928,
+    "ictf": 1.8727917403126644,
+    "llm_score": 0.85
+  },
+  {
+    "id": 347,
+    "query": "Wildlife Extinction",
+    "idf": 5.584754004322422,
+    "scq": 101.99644714430738,
+    "ictf": 4.968545801255141,
+    "llm_score": 0.95
+  },
+  {
+    "id": 348,
+    "query": "Agoraphobia",
+    "idf": 11.38514891002807,
+    "scq": 35.059935503218256,
+    "ictf": 11.230998230200811,
+    "llm_score": 0.95
+  },
+  {
+    "id": 349,
+    "query": "Metabolism",
+    "idf": 7.285264167430354,
+    "scq": 55.980579838393915,
+    "ictf": 6.494799781806316,
+    "llm_score": 0.95
+  },
+  {
+    "id": 350,
+    "query": "Health and Computer Terminals",
+    "idf": 3.319638483693654,
+    "scq": 117.06078054950186,
+    "ictf": 2.49163573169012,
+    "llm_score": 0.65
+  },
+  {
+    "id": 351,
+    "query": "Falkland petroleum exploration",
+    "idf": 5.233432794048207,
+    "scq": 143.35531718468513,
+    "ictf": 4.691891706292091,
+    "llm_score": 0.95
+  },
+  {
+    "id": 352,
+    "query": "British Chunnel impact",
+    "idf": 5.040729124036659,
+    "scq": 113.84581046206847,
+    "ictf": 4.5347763440277165,
+    "llm_score": 0.75
+  },
+  {
+    "id": 353,
+    "query": "Antarctica exploration",
+    "idf": 5.920969106180981,
+    "scq": 96.50806022031571,
+    "ictf": 5.437963376410984,
+    "llm_score": 0.9
+  },
+  {
+    "id": 354,
+    "query": "journalist risks",
+    "idf": 3.4135937344101324,
+    "scq": 77.06228460452445,
+    "ictf": 2.9185928712259526,
+    "llm_score": 0.8
+  },
+  {
+    "id": 355,
+    "query": "ocean remote sensing",
+    "idf": 4.6523197057302985,
+    "scq": 139.62196322573763,
+    "ictf": 4.184866231142668,
+    "llm_score": 0.95
+  },
+  {
+    "id": 356,
+    "query": "postmenopausal estrogen Britain",
+    "idf": 6.069007225606905,
+    "scq": 93.43008087312388,
+    "ictf": 5.209434442787329,
+    "llm_score": 0.6
+  },
+  {
+    "id": 357,
+    "query": "territorial waters dispute",
+    "idf": 3.1467418472316564,
+    "scq": 111.53264739242265,
+    "ictf": 2.4886291794351894,
+    "llm_score": 0.95
+  },
+  {
+    "id": 358,
+    "query": "blood-alcohol fatalities",
+    "idf": 4.590101106982691,
+    "scq": 139.00291603300994,
+    "ictf": 4.080425398509521,
+    "llm_score": 0.95
+  },
+  {
+    "id": 359,
+    "query": "mutual fund predictors",
+    "idf": 4.807740469967739,
+    "scq": 119.44674408899243,
+    "ictf": 4.266544564715838,
+    "llm_score": 0.65
+  },
+  {
+    "id": 360,
+    "query": "drug legalization benefits",
+    "idf": 2.8512507756739365,
+    "scq": 105.65649537164738,
+    "ictf": 2.080700498556849,
+    "llm_score": 0.85
+  },
+  {
+    "id": 361,
+    "query": "clothing sweatshops",
+    "idf": 6.344287877514329,
+    "scq": 97.64870223209121,
+    "ictf": 5.717528837925233,
+    "llm_score": 0.95
+  },
+  {
+    "id": 362,
+    "query": "human smuggling",
+    "idf": 4.096557467112843,
+    "scq": 85.7164266916326,
+    "ictf": 3.5010773084378637,
+    "llm_score": 0.95
+  },
+  {
+    "id": 363,
+    "query": "transportation tunnel disasters",
+    "idf": 4.12636138637734,
+    "scq": 130.4055146769188,
+    "ictf": 3.50432631654809,
+    "llm_score": 0.95
+  },
+  {
+    "id": 364,
+    "query": "rabies",
+    "idf": 8.364724023883708,
+    "scq": 56.848730433770484,
+    "ictf": 7.383894770871981,
+    "llm_score": 1.0
+  },
+  {
+    "id": 365,
+    "query": "El Nino",
+    "idf": 6.097732856460455,
+    "scq": 97.27949013183355,
+    "ictf": 5.45492926203516,
+    "llm_score": 0.95
+  },
+  {
+    "id": 366,
+    "query": "commercial cyanide uses",
+    "idf": 3.8232936252034846,
+    "scq": 108.29646925616355,
+    "ictf": 3.0147704882087436,
+    "llm_score": 0.9
+  },
+  {
+    "id": 367,
+    "query": "piracy",
+    "idf": 7.185443832148143,
+    "scq": 54.835625172398,
+    "ictf": 6.547545125818676,
+    "llm_score": 0.9
+  },
+  {
+    "id": 368,
+    "query": "in vitro fertilization",
+    "idf": 6.4647271440306735,
+    "scq": 104.86922117266798,
+    "ictf": 5.884727856956796,
+    "llm_score": 1.0
+  },
+  {
+    "id": 369,
+    "query": "anorexia nervosa bulimia",
+    "idf": 10.0667939911325,
+    "scq": 129.93279490419832,
+    "ictf": 9.886862521637932,
+    "llm_score": 0.95
+  },
+  {
+    "id": 370,
+    "query": "food/drug laws",
+    "idf": 2.8020173022131822,
+    "scq": 105.99488564493366,
+    "ictf": 1.8126818414724297,
+    "llm_score": 0.85
+  },
+  {
+    "id": 371,
+    "query": "health insurance holistic",
+    "idf": 4.77566330517218,
+    "scq": 122.70996693903732,
+    "ictf": 4.103023090131268,
+    "llm_score": 0.85
+  },
+  {
+    "id": 372,
+    "query": "Native American casino",
+    "idf": 4.285919630854633,
+    "scq": 129.84498246620575,
+    "ictf": 3.6386538028262136,
+    "llm_score": 0.9
+  },
+  {
+    "id": 373,
+    "query": "encryption equipment export",
+    "idf": 4.714882563191278,
+    "scq": 126.9710401899998,
+    "ictf": 3.8577662474943257,
+    "llm_score": 0.75
+  },
+  {
+    "id": 374,
+    "query": "Nobel prize winners",
+    "idf": 4.956290536939776,
+    "scq": 140.27192453372385,
+    "ictf": 4.586442494197979,
+    "llm_score": 0.95
+  },
+  {
+    "id": 375,
+    "query": "hydrogen energy",
+    "idf": 4.7422150369294345,
+    "scq": 92.82235626991665,
+    "ictf": 3.853947719768822,
+    "llm_score": 0.85
+  },
+  {
+    "id": 376,
+    "query": "World Court",
+    "idf": 2.1449017213286856,
+    "scq": 57.521095903606565,
+    "ictf": 1.4229167729176833,
+    "llm_score": 0.75
+  },
+  {
+    "id": 377,
+    "query": "cigar smoking",
+    "idf": 5.784882506255894,
+    "scq": 100.9367413471181,
+    "ictf": 5.188605240539768,
+    "llm_score": 0.85
+  },
+  {
+    "id": 378,
+    "query": "euro opposition",
+    "idf": 3.900599030392506,
+    "scq": 83.13630309239956,
+    "ictf": 3.3768482829906823,
+    "llm_score": 0.75
+  },
+  {
+    "id": 379,
+    "query": "mainstreaming",
+    "idf": 5.256825180202891,
+    "scq": 48.020841028052516,
+    "ictf": 5.0512773907790605,
+    "llm_score": 0.75
+  },
+  {
+    "id": 380,
+    "query": "obesity medical treatment",
+    "idf": 4.930506929147645,
+    "scq": 133.1442178469386,
+    "ictf": 4.322532973331952,
+    "llm_score": 0.95
+  },
+  {
+    "id": 381,
+    "query": "alternative medicine",
+    "idf": 3.779970033532514,
+    "scq": 81.9176032499955,
+    "ictf": 3.3001316582305877,
+    "llm_score": 0.95
+  },
+  {
+    "id": 382,
+    "query": "hydrogen fuel automobiles",
+    "idf": 4.932571110776603,
+    "scq": 145.04968236297563,
+    "ictf": 4.117375326985521,
+    "llm_score": 0.85
+  },
+  {
+    "id": 383,
+    "query": "mental illness drugs",
+    "idf": 3.8739378508446407,
+    "scq": 127.35797175745208,
+    "ictf": 3.177404513557071,
+    "llm_score": 0.9
+  },
+  {
+    "id": 384,
+    "query": "space station moon",
+    "idf": 4.110322300045238,
+    "scq": 129.02880079384747,
+    "ictf": 3.414307880152888,
+    "llm_score": 0.5
+  },
+  {
+    "id": 385,
+    "query": "hybrid fuel cars",
+    "idf": 4.220817494881769,
+    "scq": 131.05157676845892,
+    "ictf": 3.360428487228667,
+    "llm_score": 0.95
+  },
+  {
+    "id": 386,
+    "query": "teaching disabled children",
+    "idf": 4.014467735637525,
+    "scq": 130.41256732042245,
+    "ictf": 3.304470868421756,
+    "llm_score": 0.95
+  },
+  {
+    "id": 387,
+    "query": "radioactive waste",
+    "idf": 4.581802532272429,
+    "scq": 96.20149689120474,
+    "ictf": 3.5449810881369723,
+    "llm_score": 0.95
+  },
+  {
+    "id": 388,
+    "query": "organic soil enhancement",
+    "idf": 3.609745429500848,
+    "scq": 119.28723726197843,
+    "ictf": 3.0024303066693308,
+    "llm_score": 0.95
+  },
+  {
+    "id": 389,
+    "query": "illegal technology transfer",
+    "idf": 3.251529613763348,
+    "scq": 113.6957755268333,
+    "ictf": 2.5986070197571762,
+    "llm_score": 0.85
+  },
+  {
+    "id": 390,
+    "query": "orphan drugs",
+    "idf": 5.00994273707153,
+    "scq": 92.43070677502777,
+    "ictf": 4.204235547383368,
+    "llm_score": 0.95
+  },
+  {
+    "id": 391,
+    "query": "R&D drug prices",
+    "idf": 2.855928789817872,
+    "scq": 142.1255502785403,
+    "ictf": 1.8930377878966904,
+    "llm_score": 0.85
+  },
+  {
+    "id": 392,
+    "query": "robotics",
+    "idf": 6.548867003076592,
+    "scq": 56.29575582310606,
+    "ictf": 5.583030534651007,
+    "llm_score": 0.85
+  },
+  {
+    "id": 393,
+    "query": "mercy killing",
+    "idf": 4.438321793604725,
+    "scq": 85.9040899874945,
+    "ictf": 4.0749668095276235,
+    "llm_score": 0.5
+  },
+  {
+    "id": 394,
+    "query": "home schooling",
+    "idf": 2.102712369864226,
+    "scq": 57.281850911977536,
+    "ictf": 1.2998568122886156,
+    "llm_score": 0.95
+  },
+  {
+    "id": 395,
+    "query": "tourism",
+    "idf": 4.82576977216997,
+    "scq": 48.150214385259325,
+    "ictf": 4.21579889335747,
+    "llm_score": 0.85
+  },
+  {
+    "id": 396,
+    "query": "sick building syndrome",
+    "idf": 4.387080439906737,
+    "scq": 127.0214346180303,
+    "ictf": 3.9483673993849635,
+    "llm_score": 0.95
+  },
+  {
+    "id": 397,
+    "query": "automobile recalls",
+    "idf": 4.257978506408541,
+    "scq": 87.678897072256,
+    "ictf": 3.8686480593217176,
+    "llm_score": 0.95
+  },
+  {
+    "id": 398,
+    "query": "dismantling Europe's arsenal",
+    "idf": 4.421194624877237,
+    "scq": 130.11005538944198,
+    "ictf": 3.9727980782757526,
+    "llm_score": 0.6
+  },
+  {
+    "id": 399,
+    "query": "oceanographic vessels",
+    "idf": 6.4561661181978796,
+    "scq": 101.72147716860022,
+    "ictf": 5.637067138341783,
+    "llm_score": 0.95
+  },
+  {
+    "id": 400,
+    "query": "Amazon rain forest",
+    "idf": 5.335224353043937,
+    "scq": 149.90873821949785,
+    "ictf": 4.574869559390826,
+    "llm_score": 0.95
+  },
+  {
+    "id": 401,
+    "query": "foreign minorities, Germany",
+    "idf": 2.674087699072984,
+    "scq": 99.5732930781436,
+    "ictf": 1.9775900145244254,
+    "llm_score": 0.85
+  },
+  {
+    "id": 402,
+    "query": "behavioral genetics",
+    "idf": 5.173439754815114,
+    "scq": 99.2513999083537,
+    "ictf": 4.564689386411954,
+    "llm_score": 0.95
+  },
+  {
+    "id": 403,
+    "query": "osteoporosis",
+    "idf": 8.734257122765808,
+    "scq": 55.43829080699282,
+    "ictf": 7.834574127291314,
+    "llm_score": 1.0
+  },
+  {
+    "id": 404,
+    "query": "Ireland, peace talks",
+    "idf": 3.0678745297645755,
+    "scq": 108.70736619788813,
+    "ictf": 2.333201947820106,
+    "llm_score": 0.85
+  },
+  {
+    "id": 405,
+    "query": "cosmic events",
+    "idf": 5.115982186463134,
+    "scq": 86.01199497703035,
+    "ictf": 4.77018512842978,
+    "llm_score": 0.8
+  },
+  {
+    "id": 406,
+    "query": "Parkinson's disease",
+    "idf": 7.258014524982978,
+    "scq": 54.44975222348473,
+    "ictf": 6.677121338600271,
+    "llm_score": 1.0
+  },
+  {
+    "id": 407,
+    "query": "poaching, wildlife preserves",
+    "idf": 5.183686310416817,
+    "scq": 144.32784438913933,
+    "ictf": 4.6295267056042055,
+    "llm_score": 0.95
+  },
+  {
+    "id": 408,
+    "query": "tropical storms",
+    "idf": 5.260913411554675,
+    "scq": 97.31541842125318,
+    "ictf": 4.876563041840436,
+    "llm_score": 0.95
+  },
+  {
+    "id": 409,
+    "query": "legal, Pan Am, 103",
+    "idf": 3.744785272970402,
+    "scq": 160.36122739551166,
+    "ictf": 3.2742095741596473,
+    "llm_score": 0.85
+  },
+  {
+    "id": 410,
+    "query": "Schengen agreement",
+    "idf": 5.392930937799173,
+    "scq": 85.31346051190818,
+    "ictf": 4.512221277656304,
+    "llm_score": 0.95
+  },
+  {
+    "id": 411,
+    "query": "salvaging, shipwreck, treasure",
+    "idf": 6.4139886656566665,
+    "scq": 148.59544325274774,
+    "ictf": 6.157779877392378,
+    "llm_score": 0.9
+  },
+  {
+    "id": 412,
+    "query": "airport security",
+    "idf": 2.798044770062044,
+    "scq": 69.23289811919736,
+    "ictf": 1.9274520908989596,
+    "llm_score": 0.95
+  },
+  {
+    "id": 413,
+    "query": "steel production",
+    "idf": 2.8650489344038004,
+    "scq": 70.258527768231,
+    "ictf": 1.9150529489374346,
+    "llm_score": 0.9
+  },
+  {
+    "id": 414,
+    "query": "Cuba, sugar, exports",
+    "idf": 4.26313738969516,
+    "scq": 138.23834518150818,
+    "ictf": 3.2243512677133643,
+    "llm_score": 0.85
+  },
+  {
+    "id": 415,
+    "query": "drugs, Golden Triangle",
+    "idf": 4.595788544089729,
+    "scq": 137.22176770021073,
+    "ictf": 3.879116952887472,
+    "llm_score": 0.85
+  },
+  {
+    "id": 416,
+    "query": "Three Gorges Project",
+    "idf": 3.5715034910239947,
+    "scq": 107.61372694695824,
+    "ictf": 2.862187040853321,
+    "llm_score": 0.95
+  },
+  {
+    "id": 417,
+    "query": "creativity",
+    "idf": 4.6687559324920365,
+    "scq": 46.14558852776015,
+    "ictf": 4.3128683822201355,
+    "llm_score": 0.7
+  },
+  {
+    "id": 418,
+    "query": "quilts, income",
+    "idf": 5.129597385432463,
+    "scq": 89.25041488582262,
+    "ictf": 4.401561812386745,
+    "llm_score": 0.5
+  },
+  {
+    "id": 419,
+    "query": "recycle, automobile tires",
+    "idf": 4.848848322831405,
+    "scq": 145.17829785540152,
+    "ictf": 4.218871222670826,
+    "llm_score": 0.95
+  },
+  {
+    "id": 420,
+    "query": "carbon monoxide poisoning",
+    "idf": 5.662689127320202,
+    "scq": 153.5072470560292,
+    "ictf": 5.055426457020447,
+    "llm_score": 0.95
+  },
+  {
+    "id": 421,
+    "query": "industrial waste disposal",
+    "idf": 5.4403357682877775,
+    "scq": 113.34260961794057,
+    "ictf": 4.524962699786667,
+    "llm_score": 0.95
+  },
+  {
+    "id": 422,
+    "query": "art, stolen, forged",
+    "idf": 4.413032316840549,
+    "scq": 133.71621870334855,
+    "ictf": 3.9098536842951623,
+    "llm_score": 0.8
+  },
+  {
+    "id": 423,
+    "query": "Milosevic, Mirjana Markovic",
+    "idf": 8.008727353359482,
+    "scq": 155.77296868044982,
+    "ictf": 7.414565402997943,
+    "llm_score": 0.95
+  },
+  {
+    "id": 424,
+    "query": "suicides",
+    "idf": 5.32175137337478,
+    "scq": 49.18198148283971,
+    "ictf": 4.943936588662687,
+    "llm_score": 0.9
+  },
+  {
+    "id": 425,
+    "query": "counterfeiting money",
+    "idf": 4.518242089904654,
+    "scq": 84.9323136656462,
+    "ictf": 3.821119238630275,
+    "llm_score": 0.95
+  },
+  {
+    "id": 426,
+    "query": "law enforcement, dogs",
+    "idf": 3.4031303840042324,
+    "scq": 115.42221814048969,
+    "ictf": 2.7477794165623846,
+    "llm_score": 0.9
+  },
+  {
+    "id": 427,
+    "query": "UV damage, eyes",
+    "idf": 5.03323667245728,
+    "scq": 133.4679242340369,
+    "ictf": 4.399247178630014,
+    "llm_score": 0.85
+  },
+  {
+    "id": 428,
+    "query": "declining birth rates",
+    "idf": 3.1491550439306892,
+    "scq": 108.0791914478084,
+    "ictf": 2.4927420745389086,
+    "llm_score": 0.95
+  },
+  {
+    "id": 429,
+    "query": "Legionnaires' disease",
+    "idf": 8.602197400752742,
+    "scq": 54.09406936583035,
+    "ictf": 7.893704650518137,
+    "llm_score": 1.0
+  },
+  {
+    "id": 430,
+    "query": "killer bee attacks",
+    "idf": 5.017023207132639,
+    "scq": 139.7953921056902,
+    "ictf": 4.456582286235968,
+    "llm_score": 0.7
+  },
+  {
+    "id": 431,
+    "query": "robotic technology",
+    "idf": 4.68621156719587,
+    "scq": 91.69783486004492,
+    "ictf": 3.736455394223867,
+    "llm_score": 0.9
+  },
+  {
+    "id": 432,
+    "query": "profiling, motorists, police",
+    "idf": 4.298160344718009,
+    "scq": 130.42830866605203,
+    "ictf": 3.754365075569961,
+    "llm_score": 0.75
+  },
+  {
+    "id": 433,
+    "query": "Greek, philosophy, stoicism",
+    "idf": 6.295668004227555,
+    "scq": 143.36727407387767,
+    "ictf": 5.887565658590343,
+    "llm_score": 0.95
+  },
+  {
+    "id": 434,
+    "query": "Estonia, economy",
+    "idf": 3.9986362735861687,
+    "scq": 85.31480789177976,
+    "ictf": 3.0877103380684745,
+    "llm_score": 0.95
+  },
+  {
+    "id": 435,
+    "query": "curbing population growth",
+    "idf": 3.3452814462049916,
+    "scq": 113.17750100554548,
+    "ictf": 2.8273479204464373,
+    "llm_score": 0.85
+  },
+  {
+    "id": 436,
+    "query": "railway accidents",
+    "idf": 4.3099895240387704,
+    "scq": 91.57688816219454,
+    "ictf": 3.5610355659279693,
+    "llm_score": 0.95
+  },
+  {
+    "id": 437,
+    "query": "deregulation, gas, electric",
+    "idf": 3.7967499296614107,
+    "scq": 126.29684817036076,
+    "ictf": 2.9685717899258086,
+    "llm_score": 0.75
+  },
+  {
+    "id": 438,
+    "query": "tourism, increase",
+    "idf": 7.647313975161943,
+    "scq": 88.87807509304554,
+    "ictf": 7.27974696427869,
+    "llm_score": 0.7
+  },
+  {
+    "id": 439,
+    "query": "inventions, scientific discoveries",
+    "idf": 4.5630025082093155,
+    "scq": 137.23711625547344,
+    "ictf": 4.114762225836821,
+    "llm_score": 0.7
+  },
+  {
+    "id": 440,
+    "query": "child labor",
+    "idf": 3.7781429181405057,
+    "scq": 84.93404924685703,
+    "ictf": 2.9943584024870438,
+    "llm_score": 0.95
+  },
+  {
+    "id": 441,
+    "query": "Lyme disease",
+    "idf": 8.522948029098602,
+    "scq": 53.638761266370835,
+    "ictf": 7.88864134856159,
+    "llm_score": 1.0
+  },
+  {
+    "id": 442,
+    "query": "heroic acts",
+    "idf": 3.8551273208057095,
+    "scq": 76.82449228538542,
+    "ictf": 3.3869299383047267,
+    "llm_score": 0.85
+  },
+  {
+    "id": 443,
+    "query": "U.S., investment, Africa",
+    "idf": 3.621642669883732,
+    "scq": 120.02277406915496,
+    "ictf": 2.8711182525331576,
+    "llm_score": 0.8
+  },
+  {
+    "id": 444,
+    "query": "supercritical fluids",
+    "idf": 7.851915424959591,
+    "scq": 104.91330207500212,
+    "ictf": 6.987704881360594,
+    "llm_score": 0.95
+  },
+  {
+    "id": 445,
+    "query": "women clergy",
+    "idf": 5.211090889337537,
+    "scq": 92.42900764672198,
+    "ictf": 4.557442797094513,
+    "llm_score": 0.95
+  },
+  {
+    "id": 446,
+    "query": "tourists, violence",
+    "idf": 4.211430221384915,
+    "scq": 88.90246064433015,
+    "ictf": 3.641815768678277,
+    "llm_score": 0.6
+  },
+  {
+    "id": 447,
+    "query": "Stirling engine",
+    "idf": 5.146649157479008,
+    "scq": 90.817903731184,
+    "ictf": 4.4129056984049715,
+    "llm_score": 0.95
+  },
+  {
+    "id": 448,
+    "query": "ship losses",
+    "idf": 3.0105108830556384,
+    "scq": 72.23966039123846,
+    "ictf": 2.2838321401642108,
+    "llm_score": 0.9
+  },
+  {
+    "id": 449,
+    "query": "antibiotics ineffectiveness",
+    "idf": 6.368066471939198,
+    "scq": 103.29235250244628,
+    "ictf": 6.045385938012121,
+    "llm_score": 0.95
+  },
+  {
+    "id": 450,
+    "query": "King Hussein, peace",
+    "idf": 4.063879316529415,
+    "scq": 130.32446111635454,
+    "ictf": 3.2305708304261604,
+    "llm_score": 0.75
+  },
+  {
+    "id": 601,
+    "query": "Turkey Iraq water",
+    "idf": 3.8979395297681223,
+    "scq": 132.65145505020902,
+    "ictf": 2.785676480194857,
+    "llm_score": 0.65
+  },
+  {
+    "id": 602,
+    "query": "Czech, Slovak sovereignty",
+    "idf": 4.939995968301237,
+    "scq": 151.96801983210125,
+    "ictf": 3.938826337607568,
+    "llm_score": 0.9
+  },
+  {
+    "id": 603,
+    "query": "Tobacco cigarette lawsuit",
+    "idf": 4.989947565578213,
+    "scq": 147.47383735827972,
+    "ictf": 4.332796126835638,
+    "llm_score": 0.95
+  },
+  {
+    "id": 604,
+    "query": "Lyme disease arthritis",
+    "idf": 7.932522835646061,
+    "scq": 106.9440176566889,
+    "ictf": 7.403941069967538,
+    "llm_score": 0.95
+  },
+  {
+    "id": 605,
+    "query": "Great Britain health care",
+    "idf": 2.8177571912833,
+    "scq": 137.527909032981,
+    "ictf": 2.2106000501234226,
+    "llm_score": 0.8
+  },
+  {
+    "id": 606,
+    "query": "leg traps ban",
+    "idf": 4.342144328142967,
+    "scq": 133.14143001717417,
+    "ictf": 3.9335283325139354,
+    "llm_score": 0.75
+  },
+  {
+    "id": 607,
+    "query": "human genetic code",
+    "idf": 3.864250853436228,
+    "scq": 123.37575026427395,
+    "ictf": 3.253830611057765,
+    "llm_score": 0.95
+  },
+  {
+    "id": 608,
+    "query": "taxing social security",
+    "idf": 2.260156716088654,
+    "scq": 90.40544490254268,
+    "ictf": 1.3930756486296152,
+    "llm_score": 0.75
+  },
+  {
+    "id": 609,
+    "query": "per capita alcohol consumption",
+    "idf": 3.9104997544050715,
+    "scq": 165.34380733630394,
+    "ictf": 3.1470096670029246,
+    "llm_score": 0.95
+  },
+  {
+    "id": 610,
+    "query": "minimum wage adverse impact",
+    "idf": 5.162662781804224,
+    "scq": 157.31982835935597,
+    "ictf": 4.652037459441386,
+    "llm_score": 0.85
+  },
+  {
+    "id": 611,
+    "query": "Kurds Germany violence",
+    "idf": 4.408256146419379,
+    "scq": 133.8214751129225,
+    "ictf": 3.676956468589818,
+    "llm_score": 0.75
+  },
+  {
+    "id": 612,
+    "query": "Tibet protesters",
+    "idf": 5.065249650757919,
+    "scq": 99.1544622519277,
+    "ictf": 4.051250764259359,
+    "llm_score": 0.85
+  },
+  {
+    "id": 613,
+    "query": "Berlin wall disposal",
+    "idf": 6.372286958867817,
+    "scq": 132.120071000729,
+    "ictf": 5.730177946061988,
+    "llm_score": 0.85
+  },
+  {
+    "id": 614,
+    "query": "Flavr Savr tomato",
+    "idf": 9.849845359189464,
+    "scq": 150.7549038891384,
+    "ictf": 8.450221740203666,
+    "llm_score": 0.95
+  },
+  {
+    "id": 615,
+    "query": "timber exports Asia",
+    "idf": 4.04107328108932,
+    "scq": 129.7867917336067,
+    "ictf": 3.2555292669358784,
+    "llm_score": 0.8
+  },
+  {
+    "id": 616,
+    "query": "Volkswagen Mexico",
+    "idf": 4.7402693855184825,
+    "scq": 94.35374772658312,
+    "ictf": 4.072436892400824,
+    "llm_score": 0.95
+  },
+  {
+    "id": 617,
+    "query": "Russia Cuba economy",
+    "idf": 3.4979506052094234,
+    "scq": 121.48051747329124,
+    "ictf": 2.447088069970208,
+    "llm_score": 0.85
+  },
+  {
+    "id": 618,
+    "query": "Ayatollah Khomeini death",
+    "idf": 5.756734303215985,
+    "scq": 147.2391295241255,
+    "ictf": 5.137024955611079,
+    "llm_score": 0.95
+  },
+  {
+    "id": 619,
+    "query": "Winnie Mandela scandal",
+    "idf": 5.969162880200845,
+    "scq": 153.84923670383142,
+    "ictf": 5.261739918462559,
+    "llm_score": 0.75
+  },
+  {
+    "id": 620,
+    "query": "France nuclear testing",
+    "idf": 3.078475514891501,
+    "scq": 114.21423608313299,
+    "ictf": 1.9937278929120295,
+    "llm_score": 0.95
+  },
+  {
+    "id": 621,
+    "query": "women ordained Church of England",
+    "idf": 4.635158037428045,
+    "scq": 175.73944455490496,
+    "ictf": 4.04536477666573,
+    "llm_score": 0.95
+  },
+  {
+    "id": 622,
+    "query": "price fixing",
+    "idf": 2.7242914786391736,
+    "scq": 66.73440906853313,
+    "ictf": 1.9957417606165722,
+    "llm_score": 0.95
+  },
+  {
+    "id": 623,
+    "query": "toxic chemical weapon",
+    "idf": 3.947875615092465,
+    "scq": 131.57352712988347,
+    "ictf": 3.0191935468059072,
+    "llm_score": 0.85
+  },
+  {
+    "id": 624,
+    "query": "SDI Star Wars",
+    "idf": 4.856163510622055,
+    "scq": 128.72409858961865,
+    "ictf": 4.1295546940715,
+    "llm_score": 0.65
+  },
+  {
+    "id": 625,
+    "query": "arrests bombing WTC",
+    "idf": 5.932638584021315,
+    "scq": 132.09516714302862,
+    "ictf": 5.240081229830676,
+    "llm_score": 0.75
+  },
+  {
+    "id": 626,
+    "query": "human stampede",
+    "idf": 3.929988057270849,
+    "scq": 83.52526596964385,
+    "ictf": 3.400130152738131,
+    "llm_score": 0.95
+  },
+  {
+    "id": 627,
+    "query": "Russian food crisis",
+    "idf": 3.0058347081941896,
+    "scq": 110.04591705934172,
+    "ictf": 2.1455296271515794,
+    "llm_score": 0.95
+  },
+  {
+    "id": 628,
+    "query": "U.S. invasion of Panama",
+    "idf": 7.665675359572449,
+    "scq": 129.45560746530364,
+    "ictf": 7.07247471558732,
+    "llm_score": 0.95
+  },
+  {
+    "id": 629,
+    "query": "abortion clinic attack",
+    "idf": 4.233823509806676,
+    "scq": 135.27466025794075,
+    "ictf": 3.4220416628717008,
+    "llm_score": 0.95
+  },
+  {
+    "id": 630,
+    "query": "Gulf War Syndrome",
+    "idf": 4.260596777078014,
+    "scq": 127.78416208614928,
+    "ictf": 3.729256079100734,
+    "llm_score": 0.95
+  },
+  {
+    "id": 631,
+    "query": "Mandela South Africa President",
+    "idf": 3.349134830429041,
+    "scq": 151.949941410149,
+    "ictf": 2.4873081522225737,
+    "llm_score": 0.95
+  },
+  {
+    "id": 632,
+    "query": "southeast Asia tin mining",
+    "idf": 4.518546779132296,
+    "scq": 182.37626392544382,
+    "ictf": 3.928703630933483,
+    "llm_score": 0.95
+  },
+  {
+    "id": 633,
+    "query": "Welsh devolution",
+    "idf": 6.3986006447846675,
+    "scq": 104.77640517695002,
+    "ictf": 5.9032858402252,
+    "llm_score": 0.95
+  },
+  {
+    "id": 634,
+    "query": "L-tryptophan deaths",
+    "idf": 5.524437344460456,
+    "scq": 138.79630324358064,
+    "ictf": 4.467482264587232,
+    "llm_score": 0.75
+  },
+  {
+    "id": 635,
+    "query": "doctor assisted suicides",
+    "idf": 3.9691646538342127,
+    "scq": 124.38586585347568,
+    "ictf": 3.477797718636179,
+    "llm_score": 0.85
+  },
+  {
+    "id": 636,
+    "query": "jury duty exemptions",
+    "idf": 3.9937799006760457,
+    "scq": 131.07949132281306,
+    "ictf": 3.2169865072554895,
+    "llm_score": 0.95
+  },
+  {
+    "id": 637,
+    "query": "human growth hormone (HGH)",
+    "idf": 6.251088729089613,
+    "scq": 153.38721734687596,
+    "ictf": 5.64116121829886,
+    "llm_score": 0.95
+  },
+  {
+    "id": 638,
+    "query": "wrongful convictions",
+    "idf": 3.8112671550376938,
+    "scq": 81.83239790755184,
+    "ictf": 3.4964519492691313,
+    "llm_score": 0.95
+  },
+  {
+    "id": 639,
+    "query": "consumer on-line shopping",
+    "idf": 2.8617953026241003,
+    "scq": 103.56358789482441,
+    "ictf": 2.2890914991578684,
+    "llm_score": 0.95
+  },
+  {
+    "id": 640,
+    "query": "maternity leave policies",
+    "idf": 3.661548860336976,
+    "scq": 111.64399791619289,
+    "ictf": 3.1336240824949058,
+    "llm_score": 0.95
+  },
+  {
+    "id": 641,
+    "query": "Valdez wildlife marine life",
+    "idf": 4.570764920025848,
+    "scq": 181.92978618367403,
+    "ictf": 3.8017098802677864,
+    "llm_score": 0.75
+  },
+  {
+    "id": 642,
+    "query": "Tiananmen Square protesters",
+    "idf": 4.726427775556267,
+    "scq": 133.31810909078362,
+    "ictf": 4.245916855170166,
+    "llm_score": 0.95
+  },
+  {
+    "id": 643,
+    "query": "salmon dams Pacific northwest",
+    "idf": 4.973712131117303,
+    "scq": 195.2479813774867,
+    "ictf": 4.245781133223928,
+    "llm_score": 0.95
+  },
+  {
+    "id": 644,
+    "query": "exotic animals import",
+    "idf": 3.882711851643155,
+    "scq": 120.92887532465917,
+    "ictf": 3.2850981038289953,
+    "llm_score": 0.95
+  },
+  {
+    "id": 645,
+    "query": "software piracy",
+    "idf": 5.860498188683804,
+    "scq": 103.49054736167125,
+    "ictf": 5.011112855176439,
+    "llm_score": 0.95
+  },
+  {
+    "id": 646,
+    "query": "food stamps increase",
+    "idf": 6.091943701917612,
+    "scq": 124.51133058804433,
+    "ictf": 5.620234316156366,
+    "llm_score": 0.75
+  },
+  {
+    "id": 647,
+    "query": "windmill electricity",
+    "idf": 5.428294092748144,
+    "scq": 90.6659672546145,
+    "ictf": 4.8405918104811905,
+    "llm_score": 0.95
+  },
+  {
+    "id": 648,
+    "query": "family leave law",
+    "idf": 2.4319740926323488,
+    "scq": 93.0965813435964,
+    "ictf": 1.8313032443204877,
+    "llm_score": 0.95
+  },
+  {
+    "id": 649,
+    "query": "computer viruses",
+    "idf": 4.507519226821032,
+    "scq": 92.81977479442364,
+    "ictf": 3.5759664376379128,
+    "llm_score": 0.95
+  },
+  {
+    "id": 650,
+    "query": "tax evasion indicted",
+    "idf": 4.947082801125025,
+    "scq": 134.59472138144713,
+    "ictf": 4.260803778157853,
+    "llm_score": 0.85
+  },
+  {
+    "id": 651,
+    "query": "U.S. ethnic population",
+    "idf": 4.07125078146695,
+    "scq": 129.42419295810123,
+    "ictf": 3.496760111216252,
+    "llm_score": 0.75
+  },
+  {
+    "id": 652,
+    "query": "OIC Balkans 1990s",
+    "idf": 5.298688030836686,
+    "scq": 130.03883612884647,
+    "ictf": 4.700260875035398,
+    "llm_score": 0.85
+  },
+  {
+    "id": 653,
+    "query": "ETA Basque terrorism",
+    "idf": 6.270204284013926,
+    "scq": 163.94752387271802,
+    "ictf": 5.28680041771617,
+    "llm_score": 0.85
+  },
+  {
+    "id": 654,
+    "query": "same-sex schools",
+    "idf": 3.087221449245444,
+    "scq": 107.00193227224887,
+    "ictf": 2.4235276146182163,
+    "llm_score": 0.75
+  },
+  {
+    "id": 655,
+    "query": "ADD diagnosis treatment",
+    "idf": 4.270328626063903,
+    "scq": 127.80389157524625,
+    "ictf": 3.834543020259993,
+    "llm_score": 0.5
+  },
+  {
+    "id": 656,
+    "query": "lead poisoning children",
+    "idf": 3.4476314129033976,
+    "scq": 113.49570354463276,
+    "ictf": 2.878207596844639,
+    "llm_score": 0.95
+  },
+  {
+    "id": 657,
+    "query": "school prayer banned",
+    "idf": 4.033467679100995,
+    "scq": 126.381316475719,
+    "ictf": 3.3545109591606934,
+    "llm_score": 0.8
+  },
+  {
+    "id": 658,
+    "query": "teenage pregnancy",
+    "idf": 6.199400841303996,
+    "scq": 103.96492911802866,
+    "ictf": 5.794426535052251,
+    "llm_score": 0.95
+  },
+  {
+    "id": 659,
+    "query": "cruise health safety",
+    "idf": 3.0403542461508404,
+    "scq": 74.00167914816296,
+    "ictf": 2.1804780907289922,
+    "llm_score": 0.95
+  },
+  {
+    "id": 660,
+    "query": "whale watching California",
+    "idf": 4.21628806975721,
+    "scq": 131.76716997926968,
+    "ictf": 3.38713574913589,
+    "llm_score": 0.95
+  },
+  {
+    "id": 661,
+    "query": "melanoma treatment causes",
+    "idf": 7.801697652641134,
+    "scq": 134.66480946856333,
+    "ictf": 7.233535332433789,
+    "llm_score": 0.75
+  },
+  {
+    "id": 662,
+    "query": "telemarketer protection",
+    "idf": 5.460472877213319,
+    "scq": 83.81381099999821,
+    "ictf": 4.876159661642596,
+    "llm_score": 0.8
+  },
+  {
+    "id": 663,
+    "query": "Agent Orange exposure",
+    "idf": 3.63899837029748,
+    "scq": 123.34595266455646,
+    "ictf": 2.8901308491148896,
+    "llm_score": 0.95
+  },
+  {
+    "id": 664,
+    "query": "American Indian Museum",
+    "idf": 3.6615648261123686,
+    "scq": 124.40096886272117,
+    "ictf": 2.7591411002275072,
+    "llm_score": 0.95
+  },
+  {
+    "id": 665,
+    "query": "poverty Africa sub-Sahara",
+    "idf": 5.21192567154501,
+    "scq": 191.3950288175836,
+    "ictf": 4.575260367730031,
+    "llm_score": 0.95
+  },
+  {
+    "id": 666,
+    "query": "Thatcher resignation impact",
+    "idf": 3.8691599974818387,
+    "scq": 124.62526121777198,
+    "ictf": 3.3069245901839874,
+    "llm_score": 0.75
+  },
+  {
+    "id": 667,
+    "query": "unmarried-partner households",
+    "idf": 4.876727334524545,
+    "scq": 133.02836328147234,
+    "ictf": 4.419908214515334,
+    "llm_score": 0.85
+  },
+  {
+    "id": 668,
+    "query": "poverty, disease",
+    "idf": 4.712272438578563,
+    "scq": 47.05573639912662,
+    "ictf": 4.210169400496548,
+    "llm_score": 0.65
+  },
+  {
+    "id": 669,
+    "query": "Islamic Revolution",
+    "idf": 4.263974160794914,
+    "scq": 91.87520551801202,
+    "ictf": 3.4378266494797307,
+    "llm_score": 0.95
+  },
+  {
+    "id": 670,
+    "query": "U.S. elections apathy",
+    "idf": 4.779886862432085,
+    "scq": 130.52876333188703,
+    "ictf": 4.248743803530737,
+    "llm_score": 0.9
+  },
+  {
+    "id": 671,
+    "query": "Salvation Army benefits",
+    "idf": 3.7947877028119543,
+    "scq": 119.7384140867756,
+    "ictf": 3.2383082690953526,
+    "llm_score": 0.75
+  },
+  {
+    "id": 673,
+    "query": "Soviet withdrawal Afghanistan",
+    "idf": 4.153705795541623,
+    "scq": 131.98590858950752,
+    "ictf": 3.3803983228784644,
+    "llm_score": 0.95
+  },
+  {
+    "id": 674,
+    "query": "Greenpeace prosecuted",
+    "idf": 5.692948310887285,
+    "scq": 102.12222865990597,
+    "ictf": 5.038661217333747,
+    "llm_score": 0.75
+  },
+  {
+    "id": 675,
+    "query": "Olympics training swimming",
+    "idf": 4.301109837888748,
+    "scq": 134.07524620592585,
+    "ictf": 3.5740307553830455,
+    "llm_score": 0.85
+  },
+  {
+    "id": 676,
+    "query": "poppy cultivation",
+    "idf": 6.121758968493328,
+    "scq": 105.01182561812354,
+    "ictf": 5.507731003440149,
+    "llm_score": 0.95
+  },
+  {
+    "id": 677,
+    "query": "Leaning Tower of Pisa",
+    "idf": 6.162942172214493,
+    "scq": 144.49137605914328,
+    "ictf": 5.782032916071913,
+    "llm_score": 1.0
+  },
+  {
+    "id": 678,
+    "query": "joint custody impact",
+    "idf": 3.598849997665807,
+    "scq": 117.50854126720935,
+    "ictf": 3.100936788917398,
+    "llm_score": 0.75
+  },
+  {
+    "id": 679,
+    "query": "opening adoption records",
+    "idf": 2.262572749350687,
+    "scq": 88.07329926071745,
+    "ictf": 1.7147253411098717,
+    "llm_score": 0.95
+  },
+  {
+    "id": 680,
+    "query": "immigrants Spanish school",
+    "idf": 3.640518669460143,
+    "scq": 123.61190134442255,
+    "ictf": 2.78920969816051,
+    "llm_score": 0.85
+  },
+  {
+    "id": 681,
+    "query": "wind power location",
+    "idf": 3.0658486764257717,
+    "scq": 107.0025461300583,
+    "ictf": 2.512022562353811,
+    "llm_score": 0.85
+  },
+  {
+    "id": 682,
+    "query": "adult immigrants English",
+    "idf": 3.8998874268431103,
+    "scq": 126.01559911827013,
+    "ictf": 3.35366105743844,
+    "llm_score": 0.85
+  },
+  {
+    "id": 683,
+    "query": "Czechoslovakia breakup",
+    "idf": 6.085423804847016,
+    "scq": 101.55985939951216,
+    "ictf": 5.778551321298542,
+    "llm_score": 0.95
+  },
+  {
+    "id": 684,
+    "query": "part-time benefits",
+    "idf": 1.6820638060044992,
+    "scq": 72.60800404024624,
+    "ictf": 1.0755549764709509,
+    "llm_score": 0.85
+  },
+  {
+    "id": 685,
+    "query": "Oscar winner selection",
+    "idf": 4.1730046548548065,
+    "scq": 127.77242127347367,
+    "ictf": 3.7978106778845913,
+    "llm_score": 0.7
+  },
+  {
+    "id": 686,
+    "query": "Argentina pegging dollar",
+    "idf": 4.399766022098556,
+    "scq": 129.40372856930253,
+    "ictf": 3.67889105345242,
+    "llm_score": 0.8
+  },
+  {
+    "id": 687,
+    "query": "Northern Ireland industry",
+    "idf": 3.144000068283099,
+    "scq": 109.71774615561938,
+    "ictf": 2.4292731639572933,
+    "llm_score": 0.85
+  },
+  {
+    "id": 688,
+    "query": "non-U.S. media bias",
+    "idf": 4.081288299024134,
+    "scq": 168.20954942100408,
+    "ictf": 3.6114240371644053,
+    "llm_score": 0.85
+  },
+  {
+    "id": 689,
+    "query": "family-planning aid",
+    "idf": 2.3574086946451978,
+    "scq": 91.67682872943897,
+    "ictf": 1.6378330349609698,
+    "llm_score": 0.85
+  },
+  {
+    "id": 690,
+    "query": "college education advantage",
+    "idf": 3.224688073123872,
+    "scq": 113.15610214246576,
+    "ictf": 2.605207874628816,
+    "llm_score": 0.75
+  },
+  {
+    "id": 691,
+    "query": "clear-cutting forests",
+    "idf": 3.009604001445132,
+    "scq": 106.95999391791098,
+    "ictf": 2.3639603806332556,
+    "llm_score": 0.95
+  },
+  {
+    "id": 692,
+    "query": "prostate cancer detection treatment",
+    "idf": 5.106229376874602,
+    "scq": 187.30454201663207,
+    "ictf": 4.481255562980521,
+    "llm_score": 0.8
+  },
+  {
+    "id": 693,
+    "query": "newspapers electronic media",
+    "idf": 3.34492710600736,
+    "scq": 115.35474950525324,
+    "ictf": 2.799343690280915,
+    "llm_score": 0.65
+  },
+  {
+    "id": 694,
+    "query": "compost pile",
+    "idf": 6.379667245302754,
+    "scq": 102.31727595139375,
+    "ictf": 5.958511755314721,
+    "llm_score": 0.95
+  },
+  {
+    "id": 695,
+    "query": "white collar crime sentence",
+    "idf": 3.9785876095218304,
+    "scq": 168.80817651299066,
+    "ictf": 3.3909225685247923,
+    "llm_score": 0.95
+  },
+  {
+    "id": 696,
+    "query": "safety plastic surgery",
+    "idf": 4.280730940175079,
+    "scq": 133.3842660683798,
+    "ictf": 3.675113651013089,
+    "llm_score": 0.85
+  },
+  {
+    "id": 697,
+    "query": "air traffic controller",
+    "idf": 2.767333003599413,
+    "scq": 102.01829475224868,
+    "ictf": 2.0301590648619996,
+    "llm_score": 0.95
+  },
+  {
+    "id": 698,
+    "query": "literacy rates Africa",
+    "idf": 4.227508702766425,
+    "scq": 125.4114646650753,
+    "ictf": 3.4012265342210983,
+    "llm_score": 0.9
+  },
+  {
+    "id": 699,
+    "query": "term limits",
+    "idf": 2.107185025613295,
+    "scq": 56.07574536126407,
+    "ictf": 1.5555329442480101,
+    "llm_score": 0.95
+  }
+]
