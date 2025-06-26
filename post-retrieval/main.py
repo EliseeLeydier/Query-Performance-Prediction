@@ -21,13 +21,15 @@ corpus = "robust04"
 
 # === Dossier de sauvegarde ===
 now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-save_dir = f"resultPostRetrieval/{now}"
+save_dir = f"result/{now}"
 os.makedirs(save_dir, exist_ok=True)
 
 # === Initialisation Pyserini ===
 searcher = LuceneSearcher.from_prebuilt_index(corpus)
 topics = get_topics(corpus)
-queries = {tid: topics[tid]['title'] for tid in sorted(topics.keys())[:nombreRequette]}
+queries = {}
+for tid in sorted(topics.keys())[:nombreRequette]:
+    queries[tid] = topics[tid]['title']
 
 # === Fonction : score LLM difficulté post-retrieval ===
 def difficulty_score_via_llm(query, retrieved_titles, model="llama3:8b"):
